@@ -1,0 +1,19 @@
+[project]
+name = blog
+output_path = _build
+
+[alternatives.en]
+name = English
+primary = yes
+locale = en_US
+
+[alternatives.it]
+name = Italian
+url_prefix = /it/
+locale = it
+
+[servers.production]
+name = racknerd
+enabled = yes
+default = yes
+target = rsync://racknerd/home/sgrc31/simoneguercio.xyz/
