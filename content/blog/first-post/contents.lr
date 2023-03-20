@@ -4,6 +4,7 @@ pub_date: 2022-11-18
 ---
 author: Simone Guercio
 ---
-body:
+extract: Example extract
+---
+body: This is an example blog post.  Not much here but that's not the point :)
 
-This is an example blog post.  Not much here but that's not the point :)

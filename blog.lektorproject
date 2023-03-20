@@ -10,7 +10,7 @@ locale = en_US
 
 [alternatives.it]
 name = Italian
-primariy = yes
+primary = yes
 locale = it
 
 [servers.production]
