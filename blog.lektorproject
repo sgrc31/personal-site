@@ -4,12 +4,13 @@ output_path = _build
 
 [alternatives.en]
 name = English
-primary = yes
+primary = no
+url_prefix = /en/
 locale = en_US
 
 [alternatives.it]
 name = Italian
-url_prefix = /it/
+primariy = yes
 locale = it
 
 [servers.production]
