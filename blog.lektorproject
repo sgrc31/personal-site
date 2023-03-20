@@ -18,5 +18,5 @@ enabled = yes
 default = yes
 target = rsync://racknerd/home/sgrc31/simoneguercio.xyz/
 
-[pakages]
+[packages]
 lektor-tags = 0.5.1
