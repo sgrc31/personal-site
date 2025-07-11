@@ -1,9 +1,9 @@
-title: Welcome to my site!
+_model: homepage
+---
+title: Simone Guercio
 ---
 body:
 
-<p class="homequote">Call me Simone. Some years ago — never mind how long precisely — having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the digital part of the world. It is a way I have of driving off the spleen and regulating the circulation.</p>
+Hi! I'm Simone Guercio, and I write, learn and code! 
 
-After this insult to Melville, we can get straight to the point: I am a Full Stack developer, I enjoy solving problems, especially if it involves writing code. On this website you can find my blog, notes taken during my activity and some examples of my past projects.
-
-You may have come across me online on [GitHub](https://github.com/sgrc31) or [Mastodon](https://mas.to/@sgrc31).
+You may also check my other profiles on [GitHub](https://github.com/sgrc31) or [Mastodon](https://mas.to/@sgrc31).

@@ -20,4 +20,4 @@ default = yes
 target = rsync://racknerd/home/sgrc31/simoneguercio.xyz/
 
 [packages]
-lektor-tags = 0.5.1
+lektor-tags = 0.5.2
